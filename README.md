@@ -1,3 +1,1 @@
-"Mi Proyecto2" 
-"Hola"
-"A¤adiendo contenido en la rama nueva-funcionalidad." 
+"cambio_en_la_rama_conflicto"
